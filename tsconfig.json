@@ -5,8 +5,8 @@
     "noImplicitAny": true,
     "removeComments": true,
     "preserveConstEnums": true,
-    "sourceMap": true
+    "sourceMap": true,
+    "lib": ["dom", "es7"]
   },
-  "lib": ["dom", "es2"],
   "files": ["./src/generator.ts"]
 }
