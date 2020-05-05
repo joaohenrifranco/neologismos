@@ -2,17 +2,17 @@
 
 ## Requirements
 
-Typescript
+Typescript. Install it globally with:
 
 ```npm install -g typescript```
  
 ## Running
 
-Compile
+Compile:
 
 ```tsc```
 
-Then run
+Then run:
   
 ```node build/generator.js```
 
